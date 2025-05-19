@@ -50,6 +50,7 @@
 
 ---
 
+
 ### Use case description : 종료
 
 | Actor Action  | System Response      |
