@@ -1,0 +1,7 @@
+[chan000518] Tue May 20 02:54:08 2025 +0900 제출 형식에 맞게 변환 83303e6
+[chan000518] Tue May 20 02:39:21 2025 +0900 add Analysis class_diagram 9870e19
+[chan000518] Tue May 20 02:38:15 2025 +0900 add Communication_diagram ff58359
+[chan000518] Mon May 19 00:44:57 2025 +0900 add use_case_descriptions 457d9a3
+[chan000518] Sun May 18 23:08:59 2025 +0900 add use_case_diagram d91c8b1
+[chan000518] Sun May 18 23:03:08 2025 +0900 add requirements list 5757b73
+[이승찬] Sun May 18 18:02:10 2025 +0900 Initial commit 20d013d
